@@ -1,7 +1,7 @@
 <html>
  <head>
     <meta charset="UTF-8">
-    <title>☀️ Rae's of Sunshine Site</title>
+     <title>☀️ Rae's of Sunshine Site</title>
     <link rel="stylesheet" href="css/styles.css">
  </head>
  <body>
