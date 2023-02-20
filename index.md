@@ -42,9 +42,6 @@
                 <td>Specialist Captain At Your Service</td>
             </tr>
         </tbody>
-        <tfoot>
-
-        </tfoot>
     </table>
     <hr>
     <h3>Skills</h3>
