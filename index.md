@@ -3,8 +3,8 @@
     <meta charset="UTF-8">
     <title>☀️ Rae's of Sunshine Site</title>
     <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
+ </head>
+ <body>
     <table cellspacing="20">
         <tr>
             <td><img src="AnimeProfilePic.jpg" alt="RaeShouna Profile image"></td>
