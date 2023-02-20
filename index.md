@@ -4,6 +4,7 @@
      <title>☀️ Rae's of Sunshine Site</title>
     <link rel="stylesheet" href="css/styles.css">
  </head>
+ 
  <body>
     <table cellspacing="20">
         <tr>
