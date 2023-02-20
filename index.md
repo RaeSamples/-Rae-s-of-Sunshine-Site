@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<head>
+<html>
+ <head>
     <meta charset="UTF-8">
     <title>☀️ Rae's of Sunshine Site</title>
 </head>
@@ -7,12 +8,11 @@
     <table cellspacing="20">
         <tr>
             <td><img src="AnimeProfilePic.jpg" alt="RaeShouna Profile image"></td>
-            <td>    <h1>RaeShouna Marie</h1>
+            <td><h1>RaeShouna Marie</h1>
                 <p><em>Collector of <strong>usless</strong> knowledge</em></p>
                 <p>I am someone that loves learning, plus I'm a tea snob and can drink hot tea all day. I drink and know things.</p></td>
         </tr>
     </table>
-
     <hr>
     <h3>Education</h3>
     <ul>
