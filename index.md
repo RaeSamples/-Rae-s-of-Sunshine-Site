@@ -1,9 +1,9 @@
 <html>
- <head>
-    <meta charset="UTF-8">
-     <title>☀️ Rae's of Sunshine Site</title>
+  <head>
+    <meta charset="utf-8">
+    <title>☀️ Rae's of Sunshine Site</title>
     <link rel="stylesheet" href="css/styles.css">
- </head>
+  </head>
  
  <body>
     <table cellspacing="20">
